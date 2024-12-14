@@ -1,8 +1,12 @@
-## Hi there 👋
+## BAKED DESIGNS GITHUB
+
 
 <!--
+https://github.com/Baked-Designs
 
-**Here are some ideas to get you started:**
+https://baked-designs.github.io/
+
+
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
