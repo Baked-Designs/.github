@@ -6,5 +6,5 @@
 
 <!--
 https://baked-designs.github.io/
-this is the 
+this is the README displayed in the BD Official Repo
 -->
